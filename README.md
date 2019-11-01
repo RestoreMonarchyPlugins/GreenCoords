@@ -1,5 +1,6 @@
 # GreenCoords
-## Workshop mod (is necessary): [CoordsUI](https://steamcommunity.com/sharedfiles/filedetails/?id=1856822018)
+## Workshop mod (is necessary):
+Just add ID **1856822018** to WorkshopDownloadConfig.json in your server folder.
 ## Download link: [GreenCoords.dll](https://github.com/Greenorine/GreenCoords/releases/)
 **HELLO WORLD**  
 **GreenCoords** - Plugin for Rocket Mod 4 Unturned.  
