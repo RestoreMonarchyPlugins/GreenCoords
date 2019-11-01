@@ -1,7 +1,7 @@
 # GreenCoords
 ## Workshop mod (is necessary):
 Just add ID **1856822018** to WorkshopDownloadConfig.json in your server folder.
-## Download link: [GreenCoords.dll](https://github.com/Greenorine/GreenCoords/releases/)
+
 **HELLO WORLD**  
 **GreenCoords** - Plugin for Rocket Mod 4 Unturned.  
 This plugin make possible to show real position(xyz) of player to himself when he is moving in UI.
@@ -13,3 +13,5 @@ This plugin make possible to show real position(xyz) of player to himself when h
 
 ## Permissions
 ```coords``` - basic permission.
+
+## Download link: [GreenCoords.dll](https://github.com/Greenorine/GreenCoords/releases/)
