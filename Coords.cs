@@ -24,7 +24,7 @@ namespace Greenorine.GreenCoords
         public override TranslationList DefaultTranslations => new TranslationList()
         {
             { "ShowCoords", "You enabled coords." },
-            { "HideCoords", "You hide coords." },
+            { "HideCoords", "You hid coords." },
             { "Usage", "Use: /coords." }
         };
 
