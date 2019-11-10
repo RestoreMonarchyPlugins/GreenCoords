@@ -8,10 +8,10 @@ This plugin makes possible to show real position(xyz) of player to himself when 
 *Feel free for use this plugin on your server.*
 
 ## Commands
-**/coords** - Show/hide coords.
+**/scoords** - Show/hide coords.
 
 ## Permissions
-```coords``` - basic permission.
+```scoords``` - basic permission.
 
 ## Download link: [GreenCoords.dll](https://github.com/Greenorine/GreenCoords/releases/)
 
