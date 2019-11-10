@@ -14,3 +14,7 @@ This plugin makes possible to show real position(xyz) of player to himself when 
 ```coords``` - basic permission.
 
 ## Download link: [GreenCoords.dll](https://github.com/Greenorine/GreenCoords/releases/)
+
+## Contacts:  
+Discord: BraianKant#0213
+VK: [Gennadiy Bortkevich](https://vk.com/greenovor)
