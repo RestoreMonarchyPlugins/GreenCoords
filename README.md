@@ -2,7 +2,6 @@
 ## Workshop mod (is necessary):
 Just add ID **1856822018** to WorkshopDownloadConfig.json in your server folder.
 
-**HELLO WORLD**  
 **GreenCoords** - Plugin for Rocket Mod 4 Unturned.  
 This plugin makes possible to show real position(xyz) of player to himself when he is moving in UI.
 
