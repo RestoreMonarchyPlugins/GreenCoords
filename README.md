@@ -1,3 +1,4 @@
+[![Version](https://img.shields.io/github/release/RestoreMonarchyPlugins/GreenCoords.svg)](https://github.com/RestoreMonarchyPlugins/GreenCoords/releases) [![Discord](https://discordapp.com/api/guilds/520355060312440853/widget.png)](https://restoremonarchy.com/discord)
 # GreenCoords
 ## Workshop mod (is necessary):
 Just add ID **1856822018** to WorkshopDownloadConfig.json in your server folder.
