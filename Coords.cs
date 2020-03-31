@@ -25,7 +25,7 @@ namespace Greenorine.GreenCoords
         {
             { "ShowCoords", "You enabled coords." },
             { "HideCoords", "You hid coords." },
-            { "Usage", "Use: /coords." }
+            { "Usage", "Use: /scoords." }
         };
 
         protected override void Load()
