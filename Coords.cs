@@ -90,7 +90,7 @@ namespace Greenorine.GreenCoords
         }
 
         [RocketCommand("scoords", "Show/hide coords", "/scoords", AllowedCaller.Player)]
-        public void ExecuteCommandAlert(IRP caller, string[] command)
+        public void ExecuteCommandShowCoords(IRP caller, string[] command)
         {
             if (caller is UP player)
             {
